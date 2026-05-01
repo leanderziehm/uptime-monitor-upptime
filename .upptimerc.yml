@@ -8,13 +8,13 @@ sites:
     url: https://math-api.leanderziehm.com/
 
 status-website:
-  cname: demo.upptime.js.org  # change if you use your own domain
+  cname: https://leanderziehm.github.io/uptime-monitor-upptime/  # change if you use your own domain
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Leander Ziehm Status
   introTitle: "**Service Status**"
   introMessage: Monitoring uptime for my APIs using Upptime (GitHub Actions based monitoring).
   navbar:
     - title: Status
-      href: /
+      href: /uptime-monitor-upptime/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
