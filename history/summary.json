@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 746,
-    "timeDay": 956,
-    "timeWeek": 860,
-    "timeMonth": 791,
-    "timeYear": 746,
+    "time": 743,
+    "timeDay": 579,
+    "timeWeek": 818,
+    "timeMonth": 778,
+    "timeYear": 743,
     "dailyMinutesDown": {
       "2026-05-11": 213
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/math-api.leanderziehm.com.ico",
     "slug": "math-api",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.72%",
-    "time": 741,
-    "timeDay": 944,
-    "timeWeek": 822,
-    "timeMonth": 783,
-    "timeYear": 741,
+    "uptimeYear": "99.73%",
+    "time": 738,
+    "timeDay": 587,
+    "timeWeek": 780,
+    "timeMonth": 771,
+    "timeYear": 738,
     "dailyMinutesDown": {
       "2026-05-11": 208
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 700,
-    "timeDay": 846,
-    "timeWeek": 744,
-    "timeMonth": 693,
-    "timeYear": 700,
+    "time": 697,
+    "timeDay": 603,
+    "timeWeek": 712,
+    "timeMonth": 683,
+    "timeYear": 697,
     "dailyMinutesDown": {}
   }
 ]
