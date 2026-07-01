@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/java.leanderziehm.com.ico",
     "slug": "java-api",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.77%",
-    "time": 745,
-    "timeDay": 613,
-    "timeWeek": 761,
-    "timeMonth": 767,
-    "timeYear": 745,
+    "uptimeYear": "99.78%",
+    "time": 749,
+    "timeDay": 996,
+    "timeWeek": 768,
+    "timeMonth": 779,
+    "timeYear": 749,
     "dailyMinutesDown": {
       "2026-05-11": 213
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 740,
-    "timeDay": 662,
-    "timeWeek": 751,
-    "timeMonth": 767,
-    "timeYear": 740,
+    "time": 745,
+    "timeDay": 1110,
+    "timeWeek": 774,
+    "timeMonth": 783,
+    "timeYear": 745,
     "dailyMinutesDown": {
       "2026-05-11": 208
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 690,
-    "timeDay": 607,
-    "timeWeek": 683,
-    "timeMonth": 675,
-    "timeYear": 690,
+    "time": 694,
+    "timeDay": 900,
+    "timeWeek": 687,
+    "timeMonth": 685,
+    "timeYear": 694,
     "dailyMinutesDown": {}
   }
 ]
