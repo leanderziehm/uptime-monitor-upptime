@@ -6,7 +6,7 @@
     "slug": "java-api",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
@@ -16,7 +16,8 @@
     "timeMonth": 778,
     "timeYear": 748,
     "dailyMinutesDown": {
-      "2026-05-11": 213
+      "2026-05-11": 213,
+      "2026-07-04": 0
     }
   },
   {
@@ -24,7 +25,7 @@
     "url": "https://math-api.leanderziehm.com/",
     "icon": "https://icons.duckduckgo.com/ip3/math-api.leanderziehm.com.ico",
     "slug": "math-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
