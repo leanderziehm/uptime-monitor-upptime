@@ -39,7 +39,7 @@ jobs:
         with:
           node-version: "20"
       - name: Generate graphs
-        uses: upptime/uptime-monitor@v1.43.10
+        uses: leanderziehm/uptime-monitor-github-action@master
         with:
           command: "graphs"
         env:
